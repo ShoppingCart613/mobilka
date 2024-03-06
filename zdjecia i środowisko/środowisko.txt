@@ -1,0 +1,3 @@
+Środowisko: Intelij Android Studio 
+Wersja: API 27 "Oreo" Android 8.1
+Emulator: Pixel 3a API 34 extension level 7 x86 64
