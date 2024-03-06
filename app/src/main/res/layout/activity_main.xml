@@ -88,8 +88,10 @@
 
     <TextView
         android:id="@+id/delta"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="1dp"
+        android:layout_height="16dp"
+        android:textColor="#FF0000"
+        android:textStyle="italic"
         app:layout_constraintBottom_toTopOf="@+id/oblicz"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
