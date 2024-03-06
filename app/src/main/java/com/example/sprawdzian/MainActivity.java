@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         EditText textB = findViewById(R.id.b);
         EditText textC = findViewById(R.id.c);
         TextView Wynik = findViewById(R.id.delta);
+
         Button oblicz = findViewById(R.id.oblicz);
         oblicz.setOnClickListener((View v) -> {
             try {
